@@ -24,13 +24,19 @@ body .main {
 header {
     background-color: var(--primary-color);
     text-align: center;
-    padding: 2rem 0.5rem;
+    padding: 1.5rem 0.7rem;
     width: 100%;
     font-size: 1.5rem;
 }
 
 header h1 {
-    margin: 0rem 0rem;
+    margin: 1rem 0rem;
+}
+
+header p {
+    font-size: 1.5rem;
+    max-width: var(--width-center);
+    margin: auto;
 }
 
 .hero-img {
