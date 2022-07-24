@@ -16,7 +16,7 @@ function errorHandler(error) {
 
 function buttonClicked() {
     // console.log("Button clicked");
-    // console.log(inputText.value);
+    // console.log(inputTxt.value);
     // outputTxt.innerText = "Translated text is: " + inputTxt.value;
 
     var inputText = inputTxt.value;
