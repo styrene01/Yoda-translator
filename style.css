@@ -52,7 +52,7 @@ textarea {
     border: 2px solid black;
     width: 100%;
     max-width: var(--width-center);
-    height: 10vh;
+    min-height: 10vh;
     padding: 1rem 0rem;
     margin: 1rem 0rem;
     height: 50px;
@@ -67,6 +67,7 @@ textarea {
 
 #outputText {
     border: 2px solid black;
+    min-height: 25vh;
     padding: 1rem 0rem;
     margin: 1rem 0rem;
     height: 50px;
