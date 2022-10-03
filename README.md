@@ -4,7 +4,7 @@
 
 ### A website that converts Englishh to Minion language by calling an API
 
-### API Link - https://api.funtranslations.com/translate/yoda.json
+### API Link - https://funtranslations.com/api/yoda
 
 ### Check out the live project here - "[Live](http://yodatranslator.netlify.com/)"
 
